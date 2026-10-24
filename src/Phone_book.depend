@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1654362602 source:c:\users\pc\desktop\materia³y\ii semestr\projekty\podstawy programowania 2\phone_book\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1654366202 source:d:\phone_book\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1654366204 source:e:\materia³y\iii semestr\laboratoria\programowanie w jêzyku c 2\.projekty w c++\phone_book\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
