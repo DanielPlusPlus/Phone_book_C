@@ -1,4 +1,4 @@
-# Phone Book C / Książka Telefoniczna
+# Phone Book / Książka Telefoniczna
 
 ## EN
 
