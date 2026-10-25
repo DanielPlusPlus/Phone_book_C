@@ -1,5 +1,5 @@
-Phone_book/bin
-Phone_book/obj
-Phone_book/Phone_book.cbp
-Phone_book/Phone_book.depend
-Phone_book/Phone_book.layout
+src/bin
+src/obj
+src/Phone_book.cbp
+src/Phone_book.depend
+src/Phone_book.layout
