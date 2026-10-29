@@ -55,11 +55,11 @@ Aplikacja oferuje podstawowe funkcje zarządzania kontaktami: dodawanie, edytowa
 - Zarządzanie rekordami za pomocą listy jednokierunkowej.
 
 ### Screeny
-![Main menu](screenshots/menu_screen.png)
-![Showing](screenshots/showing_screen.png)
-![Editing](screenshots/editing_screen.png)
-![Searching](screenshots/searching_screen.png)
-![Sorting](screenshots/sorting_screen.png)
+![Menu główne](screenshots/menu_screen.png)
+![Wyświetlanie](screenshots/showing_screen.png)
+![Edytowanie](screenshots/editing_screen.png)
+![Wyszukiwanie](screenshots/searching_screen.png)
+![Sortowanie](screenshots/sorting_screen.png)
 
 ### Technologie
 
