@@ -21,6 +21,7 @@ The application provides basic contact management features, such as adding, edit
 - Manage contact records using a linked list.
 
 ### Screenshots
+
 ![Main menu](screenshots/menu_screen.png)
 ![Showing](screenshots/showing_screen.png)
 ![Editing](screenshots/editing_screen.png)
@@ -55,6 +56,7 @@ Aplikacja oferuje podstawowe funkcje zarządzania kontaktami: dodawanie, edytowa
 - Zarządzanie rekordami za pomocą listy jednokierunkowej.
 
 ### Screeny
+
 ![Menu główne](screenshots/menu_screen.png)
 ![Wyświetlanie](screenshots/showing_screen.png)
 ![Edytowanie](screenshots/editing_screen.png)
